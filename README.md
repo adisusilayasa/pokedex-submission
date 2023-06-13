@@ -23,6 +23,3 @@ And also uses the BLoC pattern for state management.
 ## Features
 - Lists all the Pokémon from all generations.
 - Displays the details of each Pokémon when clicked.
-
-## Responsive
-This project is responsive for both web and mobile and has been tested on Android and the web.
